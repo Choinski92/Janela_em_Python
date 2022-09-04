@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Janela basica", "Janela basica\Janela basica.pyproj", "{1A71FD78-61F2-4F0D-A15E-8B980AA93945}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A71FD78-61F2-4F0D-A15E-8B980AA93945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A71FD78-61F2-4F0D-A15E-8B980AA93945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6FEF10D-B615-4DAC-B2BF-E67D0C582A05}
+	EndGlobalSection
+EndGlobal
